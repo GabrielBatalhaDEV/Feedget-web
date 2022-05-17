@@ -1,8 +1,8 @@
+import { Wildget } from "./components/Wildget";
+
 function App() {
   return (
-    <h1>
-      Hello TypeScript
-    </h1>
+    <Wildget></Wildget>
   );
 }
 
